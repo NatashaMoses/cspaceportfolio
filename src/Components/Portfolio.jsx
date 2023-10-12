@@ -32,7 +32,7 @@ const imageAltText = "pink desktop with books and laptop";
 const projectList = [
   {
     title: "Housing Website",
-    description: "Website that I built tp help fellow students find houses according to their wishes.",
+    description: "Website that I built to help fellow students find houses according to their wishes.",
     url: "https://natashamoses21.github.io/",
   },
 ];
